@@ -1,2 +1,1 @@
-# AdMob app-ads.txt — AdMob 계정 개설 후 아래 줄의 pub-XXXXXXXXXXXXXXXX 를 실제 게시자 ID 로 바꾼다.
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-3378510466517153, DIRECT, f08c47fec0942fa0
