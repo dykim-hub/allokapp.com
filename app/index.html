@@ -20,9 +20,15 @@
 <meta name="twitter:description" content="부모님 폰에 깔아드리는 색칠 앱. 그림을 콕 누르면 바로 칠해집니다.">
 <meta name="twitter:image" content="https://allokapp.com/assets/og-image.png">
 <link rel="stylesheet" href="/assets/style.css">
-<!-- 공유용 짧은 주소. 미리보기(카톡·문자)는 이 페이지의 og 태그를 읽고, 사람이 열면 Play 스토어로 보낸다. -->
-<meta http-equiv="refresh" content="0; url=https://play.google.com/store/apps/details?id=kr.zerotoone.coloring">
-<script>location.replace("https://play.google.com/store/apps/details?id=kr.zerotoone.coloring");</script>
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:secure_url" content="https://allokapp.com/assets/og-image.png">
+<!-- 공유용 짧은 주소. 미리보기 수집기(카톡·문자)는 JS 를 안 돌리므로 이 페이지의 og 태그만 읽고,
+     사람(브라우저)은 JS 로 Play 스토어로 보낸다. meta refresh 는 쓰지 않는다 — 수집기가 따라가면 Play 가 수집을 막아 미리보기가 사라진다. -->
+<script>
+  if (!/bot|crawl|scrap|spider|facebookexternalhit|kakaotalk|Slackbot|Twitterbot|Discordbot|TelegramBot|WhatsApp|LinkedInBot|Googlebot/i.test(navigator.userAgent)) {
+    setTimeout(function(){ location.replace("https://play.google.com/store/apps/details?id=kr.zerotoone.coloring"); }, 300);
+  }
+</script>
 </head>
 <body>
 <div class="wrap">
