@@ -3,6 +3,182 @@
  "updated": "2026-11-22",
  "designs": [
   {
+   "id": "flower-gukhwa-2",
+   "title": "국화 2",
+   "theme": "꽃·식물",
+   "regions": 42,
+   "colors": 5,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "3156f1843576a5ca04aaccfcf92658c9fc1785e5e19667a3a6ded4da57575c97",
+     "bytes": 27734
+    },
+    "lines.png": {
+     "sha256": "fec4dff329af38a03c807da93f6fbeb0e09450e90c3585aa2a261ecee47c4321",
+     "bytes": 83477
+    },
+    "thumb.png": {
+     "sha256": "dd9d7d128e189f9c7b42244a79522a4c578b5b8718cff25e95cde8eb183a871f",
+     "bytes": 134303
+    }
+   }
+  },
+  {
+   "id": "flower-maehwa-2",
+   "title": "매화 2",
+   "theme": "꽃·식물",
+   "regions": 29,
+   "colors": 6,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "2accdfaa685082c31b02645e46831ce31027f9357c438eac720896d3ba329be6",
+     "bytes": 18560
+    },
+    "lines.png": {
+     "sha256": "b287ed25a330a9063384e2c2d45f9bc09a35172697866ec382530aa91b813e89",
+     "bytes": 106917
+    },
+    "thumb.png": {
+     "sha256": "d75889eda993eb2eaae7224d09f0d8adc977ea35534fc33c3225994a51b1fa85",
+     "bytes": 169754
+    }
+   }
+  },
+  {
+   "id": "flower-yeonkkot",
+   "title": "연꽃",
+   "theme": "꽃·식물",
+   "regions": 31,
+   "colors": 9,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "fca534f041a71041bf005672fd26f4854c08a242be4910b43d0e7df6584269df",
+     "bytes": 31313
+    },
+    "lines.png": {
+     "sha256": "d67961eb481508923d1c3e85ddea85b3154516ebf1649105cb0e5028fec647c6",
+     "bytes": 154233
+    },
+    "thumb.png": {
+     "sha256": "615e4bf7ca7e0bc2a2e1e44eb5e2c2d995e623c957c139827217290063704965",
+     "bytes": 257144
+    }
+   }
+  },
+  {
+   "id": "flower-yeonkkot-2",
+   "title": "연꽃 2",
+   "theme": "꽃·식물",
+   "regions": 34,
+   "colors": 8,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "f41cf1e4d9850d2228eaf8666a73b8ab73ca4ab4e05a8687ffa620e7511ae99f",
+     "bytes": 26097
+    },
+    "lines.png": {
+     "sha256": "873bc0356ff5717f0765c83dfe04a4ab991d1c0d11649883863f0caa3c9bd9d4",
+     "bytes": 78693
+    },
+    "thumb.png": {
+     "sha256": "c1c0fd950298cf492464de78bf3587d84b90392d2945edc788238fe022ee98de",
+     "bytes": 148942
+    }
+   }
+  },
+  {
+   "id": "hwatu-feb-plum",
+   "title": "매화와 꾀꼬리",
+   "theme": "화투",
+   "regions": 44,
+   "colors": 6,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "910ead53ac09ea4d23d25954fdbac15e2805c48412743e0cbc49d0094ebf119a",
+     "bytes": 24750
+    },
+    "lines.png": {
+     "sha256": "4deb321b6299a7cfed0800e8cc9142aa5a7644cbc4d08a87e5ef85bf46e9564e",
+     "bytes": 75527
+    },
+    "thumb.png": {
+     "sha256": "6e2473769ef86a938b281103ef2492de03d9a09fb63b85ea63fadde4523133ac",
+     "bytes": 132218
+    }
+   }
+  },
+  {
+   "id": "hwatu-feb-plum-2",
+   "title": "매화와 꾀꼬리 2",
+   "theme": "화투",
+   "regions": 35,
+   "colors": 4,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "490d6209b72080a42bc02be41d3697d864e44572cb364478650efa7e8bf4c10d",
+     "bytes": 20088
+    },
+    "lines.png": {
+     "sha256": "233589758190e7849a3aa0da2ce2f5caf8956c9fdff3db032a58d76363ce17ee",
+     "bytes": 58530
+    },
+    "thumb.png": {
+     "sha256": "0b0758b2c11184b9f4f50fa346283badfee8387d557740390b712436440094b2",
+     "bytes": 103758
+    }
+   }
+  },
+  {
+   "id": "minhwa-chaekgeori",
+   "title": "책거리",
+   "theme": "민화",
+   "regions": 21,
+   "colors": 8,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "3508a2675fd4b6af9c980af364c7c8a3082541fcb1733201f60cb05a48e575c9",
+     "bytes": 10997
+    },
+    "lines.png": {
+     "sha256": "1dfaf0d890d541e2bbaa9b2f863bdf4539871636d09f881a71f3f88c7be4af5d",
+     "bytes": 49817
+    },
+    "thumb.png": {
+     "sha256": "5e1a0dbbe97265f91098158903b5761909d9d88824f1969fadab07b8168a1a3e",
+     "bytes": 85637
+    }
+   }
+  },
+  {
+   "id": "minhwa-chaekgeori-2",
+   "title": "책거리 2",
+   "theme": "민화",
+   "regions": 33,
+   "colors": 10,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "5192c7cdb127c67d30f28004933e29e57ea1ac8597e758e9b67796f091d4145d",
+     "bytes": 16014
+    },
+    "lines.png": {
+     "sha256": "01d21530b5049b0049619f1b22e5da262599465a9f4fe8351f6d4b1645bcb8f1",
+     "bytes": 65438
+    },
+    "thumb.png": {
+     "sha256": "256769b3d90c46b87aa6b4e8cf6c0e2af6e8a92e4ee2595565d17fb4a1f7c268",
+     "bytes": 124497
+    }
+   }
+  },
+  {
    "id": "pungsok-jangteo",
    "title": "장터 가는 길",
    "theme": "풍속화",
@@ -175,6 +351,50 @@
     "thumb.png": {
      "sha256": "648c95265c818fefa206b8c5473576949bad0a428a320a988482d3a0446a5a33",
      "bytes": 187342
+    }
+   }
+  },
+  {
+   "id": "season-newyear-yut",
+   "title": "윷놀이",
+   "theme": "계절·명절",
+   "regions": 22,
+   "colors": 8,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "6af65c39fe8a1cfb7f05980032bffaae78dbe750dd75477e27b9a2bf6a35b3fb",
+     "bytes": 20139
+    },
+    "lines.png": {
+     "sha256": "c004db9f395fe5e37f2e5b6b589384ed524680e2466931ff631f7145c2d9f1c3",
+     "bytes": 79610
+    },
+    "thumb.png": {
+     "sha256": "0ded255861106c9fbb3ab77473f0b182b281838cbd077373a1453cd453532b68",
+     "bytes": 147384
+    }
+   }
+  },
+  {
+   "id": "season-newyear-yut-2",
+   "title": "윷놀이 2",
+   "theme": "계절·명절",
+   "regions": 23,
+   "colors": 8,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "07dc6d2c92afb95a00331ca83e16eb557d5d142b10354610dd98a2dc8eb4e3f3",
+     "bytes": 19639
+    },
+    "lines.png": {
+     "sha256": "25bd20047473f7d0ba62a7a3f3862582970809b5a57cb82028bc167e67daa9b2",
+     "bytes": 63631
+    },
+    "thumb.png": {
+     "sha256": "8ff133ce511f390bbd8e1651de33e5238f414527ffcf6e2b2485f61442852a5d",
+     "bytes": 119240
     }
    }
   },
