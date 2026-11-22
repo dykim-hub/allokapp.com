@@ -1,0 +1,270 @@
+{
+ "schema": 1,
+ "updated": "2026-11-22",
+ "designs": [
+  {
+   "id": "pungsok-jangteo",
+   "title": "장터 가는 길",
+   "theme": "풍속화",
+   "regions": 43,
+   "colors": 10,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "8f6b775b3c038daf12a5d308147ac0a4931910b24403eb8e6e2022558cc052aa",
+     "bytes": 29297
+    },
+    "lines.png": {
+     "sha256": "37f98ba9593e7611dbff1e9c847b9f29dfe4799eb12d03c54904608040982ccb",
+     "bytes": 75727
+    },
+    "thumb.png": {
+     "sha256": "fdc382753bf259b4dd506668c089756f5205049e768aad9ebb3a11a9b430fa2f",
+     "bytes": 146973
+    }
+   }
+  },
+  {
+   "id": "pungsok-jangteo-2",
+   "title": "장터 가는 길 2",
+   "theme": "풍속화",
+   "regions": 31,
+   "colors": 11,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "82915a9174a6f73156152920fad977dcb0075dfe7f0d6f67b23b02a57b65d96d",
+     "bytes": 22852
+    },
+    "lines.png": {
+     "sha256": "8c3707687b585929fcb6f52e9915bcad5d3ef4913a0b5146003c7c11f1c4e4e8",
+     "bytes": 69550
+    },
+    "thumb.png": {
+     "sha256": "4a0d2d1c8875bc125fdc4a71c55b5c070f2ff2cf696fb51bb8ee4d7b44dc5b11",
+     "bytes": 127191
+    }
+   }
+  },
+  {
+   "id": "pungsok-ppallaeteo",
+   "title": "빨래터",
+   "theme": "풍속화",
+   "regions": 38,
+   "colors": 9,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "8db50f6358af36a2619c38b98205d9a521519bad2aa239efd8012ae4150db4f0",
+     "bytes": 47785
+    },
+    "lines.png": {
+     "sha256": "6a500e85a50a3a27e4003c234a9b78afc8c622bc04e00267888a698fe6854e5b",
+     "bytes": 91265
+    },
+    "thumb.png": {
+     "sha256": "dd9e0b13f6628f514ed3824f614b7f8de4614607fcc779679eb9867d8086cfe1",
+     "bytes": 171168
+    }
+   }
+  },
+  {
+   "id": "pungsok-ppallaeteo-2",
+   "title": "빨래터 2",
+   "theme": "풍속화",
+   "regions": 51,
+   "colors": 10,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "c9555e4169843e6726cdccba33ab68450785dbd79de4d5d065271db86ca8f85a",
+     "bytes": 32453
+    },
+    "lines.png": {
+     "sha256": "143ddaaf172ae9f9449c170e2c5b0352d3b8524be591dba57ce08e81e1768592",
+     "bytes": 91066
+    },
+    "thumb.png": {
+     "sha256": "675b91de5b73a99730fc5e4c87115a0d89c6eb9f3757c8791605c3662f4b035e",
+     "bytes": 161157
+    }
+   }
+  },
+  {
+   "id": "pungsok-tajak",
+   "title": "벼 타작",
+   "theme": "풍속화",
+   "regions": 39,
+   "colors": 8,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "145d611aacbf26c7a52e2bbf017d59295822a08a79814d2f9fb49c1e6917b702",
+     "bytes": 68107
+    },
+    "lines.png": {
+     "sha256": "9c279429cac78f787897ccaab19b1bbd66e68784070ea1634660bf9716b38e87",
+     "bytes": 124002
+    },
+    "thumb.png": {
+     "sha256": "236a47df3333018a7e2da0b651be90805fc2b4713a79d5093b9c24d716e6d9f8",
+     "bytes": 241067
+    }
+   }
+  },
+  {
+   "id": "pungsok-tajak-2",
+   "title": "벼 타작 2",
+   "theme": "풍속화",
+   "regions": 31,
+   "colors": 7,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "4516831fe678f9d6748577f48df05984445df37a29aae6beb8222588bb48cc14",
+     "bytes": 56360
+    },
+    "lines.png": {
+     "sha256": "5a0ed978b28be58d9b15e54eb9fba274ddca95970d813f1b5ebc86354d08abd2",
+     "bytes": 100839
+    },
+    "thumb.png": {
+     "sha256": "23d9b7c6c3072bd31609ca928f0bc3b5ca0110e474e0c41ad811bb7ea5ef06ef",
+     "bytes": 157615
+    }
+   }
+  },
+  {
+   "id": "season-autumn",
+   "title": "감나무",
+   "theme": "계절·명절",
+   "regions": 75,
+   "colors": 10,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "cdcce72760838e2cf5653e6dbba3bca2802c15325a36df379728f15bb5d3c46c",
+     "bytes": 31508
+    },
+    "lines.png": {
+     "sha256": "395da451b1a1edf140c64ac95d9dbefcc1255a61f613a9e88cdbc07afe88b407",
+     "bytes": 107670
+    },
+    "thumb.png": {
+     "sha256": "b6472d6142ccd8e58929890ac5a5f584ea464ef3d27132fc982cad8b1ad84259",
+     "bytes": 192876
+    }
+   }
+  },
+  {
+   "id": "season-autumn-2",
+   "title": "감나무 2",
+   "theme": "계절·명절",
+   "regions": 70,
+   "colors": 9,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "c98f0610db4ff8dc7811848f49c5ec376999d93a752806ada8d3e6b6adb10be0",
+     "bytes": 32719
+    },
+    "lines.png": {
+     "sha256": "0c87da01e3824da237a823c0733a7a1c02e04cb334cde424e7a3178040bac267",
+     "bytes": 113086
+    },
+    "thumb.png": {
+     "sha256": "648c95265c818fefa206b8c5473576949bad0a428a320a988482d3a0446a5a33",
+     "bytes": 187342
+    }
+   }
+  },
+  {
+   "id": "season-spring",
+   "title": "진달래 동산",
+   "theme": "계절·명절",
+   "regions": 55,
+   "colors": 9,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "846e2feee132bbf5faecfdb539366a99a73e1394894c187356e92bbbf7e7a71a",
+     "bytes": 37869
+    },
+    "lines.png": {
+     "sha256": "96c64f96e0f54f3a21e7187767b24e0b8ad2aadd33b810ee507e1bb5f78a82aa",
+     "bytes": 121799
+    },
+    "thumb.png": {
+     "sha256": "41f9e323c897d7ee7187c840f06738270bc1a04821753e96c9433286ede07168",
+     "bytes": 238687
+    }
+   }
+  },
+  {
+   "id": "season-spring-2",
+   "title": "진달래 동산 2",
+   "theme": "계절·명절",
+   "regions": 70,
+   "colors": 10,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "52c3d9101fadb9bcf87550fa9db4282db98e0e5418d558f34018efe57d9e4dd2",
+     "bytes": 33797
+    },
+    "lines.png": {
+     "sha256": "39cdbacdde1d0290015c1a132c9d66fe0aea42b74cb1999983006a39d37042e8",
+     "bytes": 100428
+    },
+    "thumb.png": {
+     "sha256": "c90e28e025c1f92f5dd677d6804f346a965ccfbfd168b8df46bca5cbed64181d",
+     "bytes": 195735
+    }
+   }
+  },
+  {
+   "id": "season-summer",
+   "title": "여름 수박",
+   "theme": "계절·명절",
+   "regions": 72,
+   "colors": 9,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "ddbc966792db1b5f18d1068c35812567318bb26e24cd48ea415c10ca20789985",
+     "bytes": 37553
+    },
+    "lines.png": {
+     "sha256": "89040bf89003a62119117bbefe648fd905b2d0d54ae4340e746e896adc8170e9",
+     "bytes": 113101
+    },
+    "thumb.png": {
+     "sha256": "132c639849151805dccbc86b4e53e2bf6b0964da5b5ad16c051ddfb85e2ed259",
+     "bytes": 212062
+    }
+   }
+  },
+  {
+   "id": "season-summer-2",
+   "title": "여름 수박 2",
+   "theme": "계절·명절",
+   "regions": 73,
+   "colors": 11,
+   "added": "2026-11-22",
+   "files": {
+    "meta.json": {
+     "sha256": "84a0e2d1ec397822c99456ce15c322d7ef6ca3e924925b40f30507b7767e303f",
+     "bytes": 26539
+    },
+    "lines.png": {
+     "sha256": "1cfcfb4fb565213457134209921ba9612cce5b6c915593bf25544b7e175d3e5e",
+     "bytes": 96561
+    },
+    "thumb.png": {
+     "sha256": "67097be9d6346ea8c211957f9734b87475b1426882de207762c65ff46e00e348",
+     "bytes": 184056
+    }
+   }
+  }
+ ]
+}
